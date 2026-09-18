@@ -8,6 +8,7 @@ Tarefas e projetos da parte de Backend do curso FullStack Java na EBAC.
 - `tarefas/tarefa-vendas-eclipse/`: atividade de vendas estruturada para Eclipse.
 - `tarefas/tarefa-vendas-jpa/`: atividade de vendas com testes e persistencia.
 - `tarefas/tarefa-streams/`: atividade de Streams e expressoes lambda.
+- `tarefas/repos-individuais/`: atividades iniciais preservadas por origem.
 - `projetoMod39/`: projeto que ja existia na branch principal.
 
 ## Modulos consolidados
@@ -36,6 +37,14 @@ Os materiais foram preservados a partir dos repositorios individuais abaixo:
 - `PERIMGABRIEL/TarefaVendas`
 - `PERIMGABRIEL/Tarefa_vendas`
 - `PERIMGABRIEL/Tarefa_Streams`
+- `PERIMGABRIEL/Tarefa_Reflection`
+- `PERIMGABRIEL/Tarefa_Annotation`
+- `PERIMGABRIEL/Tarefa_PadroesProjeto1`
+- `PERIMGABRIEL/Tarefa_colecoes`
+- `PERIMGABRIEL/Tarefa_ControleDeFluxo`
+- `PERIMGABRIEL/Tarefa_wrapper`
+- `PERIMGABRIEL/Tarefa_calculo_media`
+- `PERIMGABRIEL/Tarefa_classes`
 
 Arquivos gerados por IDE e build, como `.idea`, `bin`, `out`, `target`,
 `.class` e `.jar`, nao fazem parte da consolidacao. Para executar um projeto
