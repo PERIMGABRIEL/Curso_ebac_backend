@@ -45,6 +45,7 @@ Os materiais foram preservados a partir dos repositorios individuais abaixo:
 - `PERIMGABRIEL/Tarefa_wrapper`
 - `PERIMGABRIEL/Tarefa_calculo_media`
 - `PERIMGABRIEL/Tarefa_classes`
+- `PERIMGABRIEL/Tarefa_idetificacao_a_objetos`
 
 Arquivos gerados por IDE e build, como `.idea`, `bin`, `out`, `target`,
 `.class` e `.jar`, nao fazem parte da consolidacao. Para executar um projeto
