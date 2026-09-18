@@ -5,6 +5,9 @@ Tarefas e projetos da parte de Backend do curso FullStack Java na EBAC.
 - `modulos/`: exemplos e projetos organizados por modulo.
 - `tarefas/tarefa-mod-14/`: atividade individual do modulo 14.
 - `tarefas/exercicios-java/`: conjunto de exercicios e entregas Java.
+- `tarefas/tarefa-vendas-eclipse/`: atividade de vendas estruturada para Eclipse.
+- `tarefas/tarefa-vendas-jpa/`: atividade de vendas com testes e persistencia.
+- `tarefas/tarefa-streams/`: atividade de Streams e expressoes lambda.
 - `projetoMod39/`: projeto que ja existia na branch principal.
 
 ## Modulos consolidados
@@ -30,6 +33,9 @@ Os materiais foram preservados a partir dos repositorios individuais abaixo:
 - `PERIMGABRIEL/Mod42-produto`
 - `PERIMGABRIEL/TarefaMod14`
 - `PERIMGABRIEL/tarefa_ebac_Pedro_Matheus`
+- `PERIMGABRIEL/TarefaVendas`
+- `PERIMGABRIEL/Tarefa_vendas`
+- `PERIMGABRIEL/Tarefa_Streams`
 
 Arquivos gerados por IDE e build, como `.idea`, `bin`, `out`, `target`,
 `.class` e `.jar`, nao fazem parte da consolidacao. Para executar um projeto
